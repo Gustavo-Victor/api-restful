@@ -2,13 +2,13 @@
   "name": "restful-api",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "This project is a Restful API that performs CRUD operations on remote NoSQL database",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./index.js localhost 4000"
   },
-  "keywords": [],
+  "keywords": ["node.js", "express", "dotenv", "mongodb", "mongoose", "api", "restful", "rest"],
   "author": "",
   "license": "ISC",
   "dependencies": {
