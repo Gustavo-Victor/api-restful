@@ -2,7 +2,7 @@
 
 <hr/>
 
-Projeto para fins didáticos construído durante um tutorial do youtube do canal Hora de Codar [Bancos de Dados Relacional](https://www.freecodecamp.org/learn/relational-database/) da FreeCodeCamp. O projeto é basicamente uma API feita usando Node.js, MongoBD, Mongoose e Express que permite ao usuário realizar operações CRUD em banco de dados NoSQL usando a plataforma do Atlas.   
+Projeto para fins didáticos construído durante um [tutorial](https://www.youtube.com/watch?v=K5QaTfE5ylk&list=WL&index=68) do youtube do canal Hora de Codar. O projeto é basicamente uma API Restful feita usando Node.js, MongoBD, Mongoose e Express que permite ao usuário realizar operações CRUD em banco de dados NoSQL usando a plataforma do Atlas.   
 
 
 ## Funcionalidades
